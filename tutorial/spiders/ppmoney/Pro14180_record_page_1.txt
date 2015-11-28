@@ -1,0 +1,53 @@
+{
+    "State": 1, 
+    "Data": {
+        "TotalCount": 167, 
+        "PageIndex": 1, 
+        "Rows": [
+            {
+                "Creditor": "\u664b\u5973\u58eb", 
+                "Amount": "1,000.00\u5143", 
+                "Investor": "\u664b\u5973\u58eb", 
+                "InvestType": "PC\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:02:28"
+            }, 
+            {
+                "Creditor": "\u5fc3\u6674", 
+                "Amount": "30,000.00\u5143", 
+                "Investor": "\u5fc3\u6674", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 12:23:22"
+            }, 
+            {
+                "Creditor": "KakitPPM", 
+                "Amount": "2,546.00\u5143", 
+                "Investor": "KakitPPM", 
+                "InvestType": "PC\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 12:15:50"
+            }, 
+            {
+                "Creditor": "\u59da\u5148\u751f", 
+                "Amount": "1,122.00\u5143", 
+                "Investor": "\u59da\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 12:13:28"
+            }, 
+            {
+                "Creditor": "\u738b\u5973\u58eb", 
+                "Amount": "5,000.00\u5143", 
+                "Investor": "\u738b\u5973\u58eb", 
+                "InvestType": "PC\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 12:11:40"
+            }, 
+            {
+                "Creditor": "\u9648\u5148\u751f", 
+                "Amount": "477.00\u5143", 
+                "Investor": "\u9648\u5148\u751f", 
+                "InvestType": "PC\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 12:07:08"
+            }
+        ], 
+        "PageSize": 6
+    }, 
+    "Message": ""
+}
