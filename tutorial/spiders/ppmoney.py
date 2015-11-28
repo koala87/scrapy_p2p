@@ -39,7 +39,7 @@ class Ppmoney(Spider):
                     os.makedirs(Ppmoney.dir_name)                        
                     Ppmoney.first = False
 
-                fname = os.path.join(Ppmoney.dir_name, 'Pro%d.txt' % project_id)
+                fname = os.path.join(Ppmoney.dir_name, 'obj_%d_outline.txt' % project_id)
                 with open(fname, 'w') as fout:
                     json.dump(project, fout, indent=4)
 
@@ -87,7 +87,7 @@ class Ppmoney(Spider):
         }
         pos = response.url.rfind('/')
         prj_id = response.url[pos+1:]
-        fname = os.path.join(Ppmoney.dir_name, 'Pro%s_detail.txt' % prj_id)
+        fname = os.path.join(Ppmoney.dir_name, 'obj_%s_detail.txt' % prj_id)
         with open(fname, 'w') as fout:
             json.dump(result, fout, indent=4)
 
@@ -101,7 +101,7 @@ class Ppmoney(Spider):
     def parse_status(self, response):
         pos = response.url.rfind('/')
         prj_id = response.url[pos+1:]
-        fname = os.path.join(Ppmoney.dir_name, 'Pro%s_status.txt' % prj_id)
+        fname = os.path.join(Ppmoney.dir_name, 'obj_%s_status.txt' % prj_id)
         status = json.loads(response.body)
         with open(fname, 'w') as fout:
             json.dump(status, fout, indent=4)
@@ -113,7 +113,7 @@ class Ppmoney(Spider):
         parts = record.split('_')
         prj_id, page = parts[0:2]
 
-        fname = os.path.join(Ppmoney.dir_name, 'Pro%s_record_page_%s.txt' % (prj_id, page))
+        fname = os.path.join(Ppmoney.dir_name, 'obj_%s_record_page_%s.txt' % (prj_id, page))
         record = json.loads(response.body)
         
         if not record['Data']['Rows']:

@@ -1,0 +1,53 @@
+{
+    "State": 1, 
+    "Data": {
+        "TotalCount": 384, 
+        "PageIndex": 55, 
+        "Rows": [
+            {
+                "Creditor": "\u7fdf\u5148\u751f", 
+                "Amount": "1,000.00\u5143", 
+                "Investor": "\u7fdf\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:16:10"
+            }, 
+            {
+                "Creditor": "\u6c6a\u5148\u751f", 
+                "Amount": "1,514.00\u5143", 
+                "Investor": "\u6c6a\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:16:03"
+            }, 
+            {
+                "Creditor": "\u7a7a\u8c37\u5e7d\u5170", 
+                "Amount": "20,249.00\u5143", 
+                "Investor": "\u7a7a\u8c37\u5e7d\u5170", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:14:57"
+            }, 
+            {
+                "Creditor": "\u8c03\u8c03", 
+                "Amount": "3,752.00\u5143", 
+                "Investor": "\u8c03\u8c03", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:14:47"
+            }, 
+            {
+                "Creditor": "\u5510\u5973\u58eb", 
+                "Amount": "100.00\u5143", 
+                "Investor": "\u5510\u5973\u58eb", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:13:08"
+            }, 
+            {
+                "Creditor": "JACKIETO", 
+                "Amount": "45,000.00\u5143", 
+                "Investor": "JACKIETO", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 13:12:45"
+            }
+        ], 
+        "PageSize": 6
+    }, 
+    "Message": ""
+}

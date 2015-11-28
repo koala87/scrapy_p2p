@@ -1,0 +1,25 @@
+{
+    "State": 1, 
+    "Data": {
+        "TotalCount": 122, 
+        "PageIndex": 21, 
+        "Rows": [
+            {
+                "Creditor": "\u53f6\u5973\u58eb", 
+                "Amount": "1,000.00\u5143", 
+                "Investor": "\u53f6\u5973\u58eb", 
+                "InvestType": "\u81ea\u52a8", 
+                "ApplyTime": "2015-11-27 15:45:00"
+            }, 
+            {
+                "Creditor": "\u8bb8\u5973\u58eb", 
+                "Amount": "100.00\u5143", 
+                "Investor": "\u8bb8\u5973\u58eb", 
+                "InvestType": "\u81ea\u52a8", 
+                "ApplyTime": "2015-11-27 15:45:00"
+            }
+        ], 
+        "PageSize": 6
+    }, 
+    "Message": ""
+}

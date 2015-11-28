@@ -1,0 +1,53 @@
+{
+    "State": 1, 
+    "Data": {
+        "TotalCount": 384, 
+        "PageIndex": 39, 
+        "Rows": [
+            {
+                "Creditor": "\u6768\u5148\u751f", 
+                "Amount": "2,055.00\u5143", 
+                "Investor": "\u6768\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 14:32:08"
+            }, 
+            {
+                "Creditor": "\u5f20\u5148\u751f", 
+                "Amount": "10,134.00\u5143", 
+                "Investor": "\u5f20\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 14:31:47"
+            }, 
+            {
+                "Creditor": "\u5f20\u5148\u751f", 
+                "Amount": "7,261.00\u5143", 
+                "Investor": "\u5f20\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 14:31:10"
+            }, 
+            {
+                "Creditor": "\u4e8e\u5148\u751f", 
+                "Amount": "10,000.00\u5143", 
+                "Investor": "\u4e8e\u5148\u751f", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 14:28:14"
+            }, 
+            {
+                "Creditor": "\u6768\u5973\u58eb", 
+                "Amount": "40,000.00\u5143", 
+                "Investor": "\u6768\u5973\u58eb", 
+                "InvestType": "APP\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 14:27:07"
+            }, 
+            {
+                "Creditor": "\u95fb\u5973\u58eb", 
+                "Amount": "5,000.00\u5143", 
+                "Investor": "\u95fb\u5973\u58eb", 
+                "InvestType": "PC\u624b\u52a8", 
+                "ApplyTime": "2015-11-28 14:24:40"
+            }
+        ], 
+        "PageSize": 6
+    }, 
+    "Message": ""
+}

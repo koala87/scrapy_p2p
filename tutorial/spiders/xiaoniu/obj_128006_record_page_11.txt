@@ -1,0 +1,29 @@
+{
+    "totalRow": 112, 
+    "data": [
+        {
+            "userName": "h****99", 
+            "memberLevel": 3, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 2000.0, 
+            "investAmountCurrency": "2,000.00", 
+            "investTime": 1447898407000, 
+            "investTimeString": "2015-11-19 10:00:07", 
+            "id": 1066492, 
+            "productId": 128006
+        }, 
+        {
+            "userName": "x****22", 
+            "memberLevel": 2, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 100.0, 
+            "investAmountCurrency": "100.00", 
+            "investTime": 1447898406000, 
+            "investTimeString": "2015-11-19 10:00:06", 
+            "id": 1066491, 
+            "productId": 128006
+        }
+    ]
+}

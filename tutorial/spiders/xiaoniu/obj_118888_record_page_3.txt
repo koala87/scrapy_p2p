@@ -1,0 +1,53 @@
+{
+    "totalRow": 34, 
+    "data": [
+        {
+            "userName": "x****96", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 500.0, 
+            "investAmountCurrency": "500.00", 
+            "investTime": 1446469206000, 
+            "investTimeString": "2015-11-02 21:00:06", 
+            "id": 970369, 
+            "productId": 118888
+        }, 
+        {
+            "userName": "o****ng", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 200.0, 
+            "investAmountCurrency": "200.00", 
+            "investTime": 1446469206000, 
+            "investTimeString": "2015-11-02 21:00:06", 
+            "id": 970368, 
+            "productId": 118888
+        }, 
+        {
+            "userName": "x****68", 
+            "memberLevel": 3, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 200.0, 
+            "investAmountCurrency": "200.00", 
+            "investTime": 1446469205000, 
+            "investTimeString": "2015-11-02 21:00:05", 
+            "id": 970367, 
+            "productId": 118888
+        }, 
+        {
+            "userName": "y****01", 
+            "memberLevel": 4, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 50000.0, 
+            "investAmountCurrency": "50,000.00", 
+            "investTime": 1446469205000, 
+            "investTimeString": "2015-11-02 21:00:05", 
+            "id": 970366, 
+            "productId": 118888
+        }
+    ]
+}

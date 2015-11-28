@@ -1,0 +1,65 @@
+{
+    "totalRow": 45, 
+    "data": [
+        {
+            "userName": "j****07", 
+            "memberLevel": 4, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 100000.0, 
+            "investAmountCurrency": "100,000.00", 
+            "investTime": 1446516005000, 
+            "investTimeString": "2015-11-03 10:00:05", 
+            "id": 972786, 
+            "productId": 119351
+        }, 
+        {
+            "userName": "x****87", 
+            "memberLevel": 3, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 30000.0, 
+            "investAmountCurrency": "30,000.00", 
+            "investTime": 1446516005000, 
+            "investTimeString": "2015-11-03 10:00:05", 
+            "id": 972785, 
+            "productId": 119351
+        }, 
+        {
+            "userName": "x****16", 
+            "memberLevel": 4, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 50000.0, 
+            "investAmountCurrency": "50,000.00", 
+            "investTime": 1446516004000, 
+            "investTimeString": "2015-11-03 10:00:04", 
+            "id": 972784, 
+            "productId": 119351
+        }, 
+        {
+            "userName": "x****49", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 22500.0, 
+            "investAmountCurrency": "22,500.00", 
+            "investTime": 1446516004000, 
+            "investTimeString": "2015-11-03 10:00:04", 
+            "id": 972783, 
+            "productId": 119351
+        }, 
+        {
+            "userName": "x****98", 
+            "memberLevel": 3, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 50000.0, 
+            "investAmountCurrency": "50,000.00", 
+            "investTime": 1446516004000, 
+            "investTimeString": "2015-11-03 10:00:04", 
+            "id": 972782, 
+            "productId": 119351
+        }
+    ]
+}

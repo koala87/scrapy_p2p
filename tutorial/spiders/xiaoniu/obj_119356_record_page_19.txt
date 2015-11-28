@@ -1,0 +1,77 @@
+{
+    "totalRow": 196, 
+    "data": [
+        {
+            "userName": "x****63", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 100.0, 
+            "investAmountCurrency": "100.00", 
+            "investTime": 1446556902000, 
+            "investTimeString": "2015-11-03 21:21:42", 
+            "id": 977039, 
+            "productId": 119356
+        }, 
+        {
+            "userName": "d****ei", 
+            "memberLevel": 3, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 1000.0, 
+            "investAmountCurrency": "1,000.00", 
+            "investTime": 1446556901000, 
+            "investTimeString": "2015-11-03 21:21:41", 
+            "id": 977037, 
+            "productId": 119356
+        }, 
+        {
+            "userName": "A****", 
+            "memberLevel": 2, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 3000.0, 
+            "investAmountCurrency": "3,000.00", 
+            "investTime": 1446556858000, 
+            "investTimeString": "2015-11-03 21:20:58", 
+            "id": 977034, 
+            "productId": 119356
+        }, 
+        {
+            "userName": "x****58", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 100.0, 
+            "investAmountCurrency": "100.00", 
+            "investTime": 1446556823000, 
+            "investTimeString": "2015-11-03 21:20:23", 
+            "id": 977031, 
+            "productId": 119356
+        }, 
+        {
+            "userName": "x****55", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 3000.0, 
+            "investAmountCurrency": "3,000.00", 
+            "investTime": 1446556819000, 
+            "investTimeString": "2015-11-03 21:20:19", 
+            "id": 977029, 
+            "productId": 119356
+        }, 
+        {
+            "userName": "x****37", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 3600.0, 
+            "investAmountCurrency": "3,600.00", 
+            "investTime": 1446556813000, 
+            "investTimeString": "2015-11-03 21:20:13", 
+            "id": 977028, 
+            "productId": 119356
+        }
+    ]
+}

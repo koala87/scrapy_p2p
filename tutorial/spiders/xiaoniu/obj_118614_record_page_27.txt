@@ -1,0 +1,65 @@
+{
+    "totalRow": 275, 
+    "data": [
+        {
+            "userName": "x****16", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 1000.0, 
+            "investAmountCurrency": "1,000.00", 
+            "investTime": 1446290975000, 
+            "investTimeString": "2015-10-31 19:29:35", 
+            "id": 958649, 
+            "productId": 118614
+        }, 
+        {
+            "userName": "n****th", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 1000.0, 
+            "investAmountCurrency": "1,000.00", 
+            "investTime": 1446290844000, 
+            "investTimeString": "2015-10-31 19:27:24", 
+            "id": 958643, 
+            "productId": 118614
+        }, 
+        {
+            "userName": "g****ph", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 100.0, 
+            "investAmountCurrency": "100.00", 
+            "investTime": 1446290805000, 
+            "investTimeString": "2015-10-31 19:26:45", 
+            "id": 958641, 
+            "productId": 118614
+        }, 
+        {
+            "userName": "x****47", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 500.0, 
+            "investAmountCurrency": "500.00", 
+            "investTime": 1446290805000, 
+            "investTimeString": "2015-10-31 19:26:45", 
+            "id": 958640, 
+            "productId": 118614
+        }, 
+        {
+            "userName": "x****93", 
+            "memberLevel": 1, 
+            "pageNum": 0, 
+            "pageSize": 0, 
+            "investAmount": 1000.0, 
+            "investAmountCurrency": "1,000.00", 
+            "investTime": 1446290786000, 
+            "investTimeString": "2015-10-31 19:26:26", 
+            "id": 958638, 
+            "productId": 118614
+        }
+    ]
+}
